@@ -13,6 +13,13 @@ Inspired by a Zhihu Question ["Can a Chinese PhD graduate find a faculty positio
   - Ph.D. **Peking University** 2017-**2022**
   - Postdoc CMU 2022-2024
   - https://hsword.github.io/
+
+- Dr. Xingxing Zuo
+  - AP. **MBZUAI** 2025-Now
+  - Ph.D. **Zhejiang University** 2016-**2021**
+  - Postdoc Technical University of Munich 2021-2023
+  - Postdoc Caltech 2024-2025
+  - https://xingxingzuo.github.io/
     
 - Dr. Jiawei Zhang
   - AP. **University of Wisconsin–Madison** 2025-Now
