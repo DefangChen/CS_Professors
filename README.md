@@ -15,8 +15,8 @@ Inspired by a Zhihu Question ["Can a Chinese PhD graduate find a faculty positio
   - https://yihandu.github.io/
     
 - Dr. Xupeng Miao *(AI Infra, 3k+ citations)*
-  - AP. **Peking University** 2025-Now
-  - AP. **Purdue University** 2024-2024
+  - AP. **Peking University** 2026-Now
+  - AP. **Purdue University** 2024-2026
   - Ph.D. **Peking University** 2017-**2022**
   - Postdoc CMU 2022-2024
   - https://hsword.github.io/
