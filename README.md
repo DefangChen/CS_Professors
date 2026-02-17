@@ -2,6 +2,12 @@
 
 Inspired by a Zhihu Question ["Can a Chinese PhD graduate find a faculty position overseas?”](https://www.zhihu.com/question/453614209), and many responses to it, I compiled a list of CS Professors who earned their PhD degrees in China. All information is publicly available and gathered from their homepages. If you find any errors or missing information, please feel free to submit a PR.
 
+- Dr. Hanzhi Wang *(Graph Algorithms)*
+  - AP. **University of Melbourne** 2025-Now
+  - Ph.D. **Renmin University of China** 2019-**2024**
+  - Postdoc University of Copenhagen 2024-2025
+  - https://wanghzccls.github.io/
+
 - Dr. Yihan Du *(Reinforcement Learning, 200+ citations)*
   - AP. **Singapore University of Technology and Design** 2025-Now
   - Ph.D. **Tsinghua University** 2018-**2023**
