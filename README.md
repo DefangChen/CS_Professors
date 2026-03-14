@@ -8,11 +8,23 @@ Inspired by a Zhihu Question ["Can a Chinese PhD graduate find a faculty positio
   - Postdoc University of Copenhagen 2024-2025
   - https://wanghzccls.github.io/
 
+- Dr. Runlong Yu 
+  - AP. **The University of Alabama** 2025.8-Now
+  - Ph.D. **USTC** 2017-**2023**
+  - Postdoc University of Pittsburgh 2023.9-2025.8
+  - https://runlongyu.github.io/
+
 - Dr. Yihan Du *(Reinforcement Learning, 200+ citations)*
   - AP. **Singapore University of Technology and Design** 2025-Now
   - Ph.D. **Tsinghua University** 2018-**2023**
   - Postdoc UIUC 2023-2025
   - https://yihandu.github.io/
+
+- Dr. Yanxue Jia 
+  - AP. **Illinois Institute of Technology** 2025.8-Now
+  - Ph.D. **SJTU** 2016-**2022**
+  - Postdoc Illinois Institute of Technology 2023.1-2025.8
+  - https://yanxue820.github.io/
 
 - Dr. Xupeng Miao *(AI Infra, 3k+ citations)*
   - AP. **Peking University** 2026-Now
@@ -77,6 +89,21 @@ Inspired by a Zhihu Question ["Can a Chinese PhD graduate find a faculty positio
   - Ph.D. **University of Chinese Academy of Sciences** 2014-**2019**
   - Working MSRA 2019-2025
   - https://jd92.wang/
+
+- Dr. Yuexia Zhang
+  - AP. **University of Texas at San Antonio** 2022-Now
+  - Ph.D. **Fudan University** 2013-**2019**
+  - Postdoc University of Toronto 2019.7-2022.6
+  - https://sites.google.com/view/yuexia-zhang/home
+
+- Dr. Chengxi Zang 
+  - AP. **Weill Cornell Medicine** 2025-Now
+  - Ph.D. **Tsinghua University** 2013-**2019**
+  - Postdoc Weill Cornell Medicine 2019.2-2022.5
+  - Instructor Weill Cornell Medicine 2022.5-2025.5
+  - https://www.calvinzang.com/
+
+  
   
 - Dr. Siyu Huang *(Computer Vision, 2k+ citations)*
   - AP. **Clemson University** 2023-Now
