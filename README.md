@@ -146,3 +146,15 @@ Inspired by a Zhihu Question ["Can a Chinese PhD graduate find a faculty positio
   - Postdoc MSU 2018-2024
   - https://liufeng2915.github.io/
 
+- Dr. Chuang Gan
+  - AP. **University of Massachusetts Amherst** 2022-Now
+  - Ph.D. **Tsinghua University** 2013-**2018**
+  - Postdoc MIT-IBM Watson AI Lab 2018-2022
+  - https://people.csail.mit.edu/ganchuang/
+
+- Dr. Yongfeng Zhang
+  - *Associate Professor* **Rutgers University** 2024-Now
+  - AP. **Rutgers University** 2018-2024
+  - Ph.D. **Tsinghua University** 2011-**2016**
+  - Postdoc University of Massachusetts Amherst 2016-2017
+  - https://yongfeng.me/
